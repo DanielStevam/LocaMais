@@ -1,0 +1,49 @@
+Arquivo de teste
+
+Aperte ENTER
+Digite 1
+Digite 3
+Digite Joao
+Digite 2121212121
+
+Digite 2
+Digite 4
+Digite Carro com ar condicionado e banco de couro 
+Digite BMW z4
+Digite preto
+Digite AED2022
+Digite 150
+Digite 2
+Digite Disponivel
+
+Digite 3
+Digite 5
+Digite 3
+Digite 09/07/2022
+Digite 15/07/2022
+Digite 2
+Digite 4
+Digite 1
+
+Digite 4
+Digite 3
+Digite 5
+Digite 15/07/2022
+
+Digite 5
+
+Digite 6
+Digite 3
+
+Digite 7
+
+Digite 8
+Digite 4
+
+Digite 9
+Digite 1
+
+Digite 10
+Digite 3
+
+Digite 11

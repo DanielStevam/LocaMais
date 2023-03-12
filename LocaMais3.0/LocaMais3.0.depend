@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1656897004 source:c:\users\ivano\onedrive\puc\2022-1\aed\locamais3.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<stdbool.h>
+
